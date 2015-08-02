@@ -61,3 +61,7 @@ Just fetch the changes and merge them into your project with git.
 
 For more information on AngularJS please check out http://angularjs.org/
 For more on Express look at http://expressjs.com/
+
+## Building a Node.js project on Git
+
+Travis CI uses npm to install your project’s dependencies. It is possible to override this behavior and there are project that use different tooling but the majority of Node.js projects hosted on Travis CI use npm, which is also bundled with Node starting with 0.6.0 release. [travis](http://docs.travis-ci.com/user/languages/javascript-with-nodejs/) 
