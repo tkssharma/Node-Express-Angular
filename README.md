@@ -1,8 +1,4 @@
-# Angular Express Seed With HTML
 
-This is an Angular / Express seed project is which adapted from Brian Ford's Angular Express Seed (<https://github.com/btford/angular-express-seed>). Credit also goes to Mr. Ford for the intro and how to use sections of this readme.
-
-Instead of using the Jade templating engine; however, this seed uses HTML for markup.
 
 ## Intro
 
